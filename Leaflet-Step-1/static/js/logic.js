@@ -90,7 +90,7 @@ d3.json(queryUrl, function(data) {
     }
     return div;
   };
-  console.log(legend)
+    console.log(legend)
   legend.addTo(myMap);
 });
 
